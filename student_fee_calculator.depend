@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1760900831 source:c:\users\pc\documents\c program\student_fee_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
