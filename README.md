@@ -9,6 +9,7 @@ M and Y College is a technical institution that offers diploma in computer scien
 | 5    | 55,000       | 31,000 |
 
 
-You are requested to develop Java application that will enable the user to enter student admission number, Name, Band (Integers between 1 and 5). The program should then calculate the total amount of fees paid by the government and the fees to be paid by the student.
+You are requested to develop C application that will enable the user to enter student admission number, Name, Band (Integers between 1 and 5). The program should then calculate the total amount of fees paid by the government and the fees to be paid by the student.
 The application should display the student details, scholarship, loan and total fees by the government and fees to be paid by the student. 
+
 
